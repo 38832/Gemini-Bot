@@ -30,7 +30,7 @@ This repository contains a simple chatbot designed to provide rehabilitation adv
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Abutalha-Shaikh/Gemini-Bot.git
+   git clone https://github.com/38832/Gemini-Bot.git
    cd Gemini-Bot
    ```
 
